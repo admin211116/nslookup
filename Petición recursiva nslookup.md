@@ -11,7 +11,7 @@ Primero, ¿Qué diferencia hay entre una petición recursiva e iterativa?
 # Como usar una petición recursiva mediante el comando nslookup
 -Primero haciendo usos de los servidores raiz en este caso a.root-server.net, iniciaremos una petición recursiva a la página del marca.es
 
-![captura para github1.PNG](./captura para github1.PNG)
+![captura2.PNG](./captura2.PNG)
 
 -Y después veréis que funciona
 
