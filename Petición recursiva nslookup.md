@@ -3,7 +3,7 @@
 Primero, ¿Qué diferencia hay entre una petición recursiva e iterativa?
 - La solicitud de una búsqueda recursiva hace solicitudes sucesivas de la dirección IP al dominio y si no la obtiene, realiza nuevas solicitudes hasta encontrarla y la solicitud de búsqueda iterativa realiza una búsqueda en la base de datos de la dirección IP relacionada con el nombre de dominio, si no la obtiene pregunta al dominio donde realizar la próxima búsqueda.
 
--Aquí hay una representación mediante un esquema
+-Aquí hay una representación mediante un esquema, básicamente lo que está haciendo el PC es solicitar peticiones a la página, por ejemplo, en este caso a marca.es, primero solicita una petición al servidor raiz "a.root-server", después al servidor raiz de es. y después al marca.es.
 ![recursiva.PNG](./recursiva.PNG)
 
 
